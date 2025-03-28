@@ -19,13 +19,16 @@ This is a **Java-based Digital Library Management System** that allows librarian
 ```
 📂 DigitalLibrary  
  ├── 📂 src  
- │   ├── 📂 models       # Book class  
+ │   ├── 📂 bin       
+ │   ├── 📂 models       # Book class
  │   ├── 📂 services     # Business logic  
  │   ├── 📂 ui           # GUI components  
  │   ├── Main.java       # Entry point  
  ├── 📂 test  
  │   ├── LibraryServiceTest.java  # Unit tests  
- ├── README.md  
+ ├── README.md
+ ├── LibraryApp.jar
+ ├── manifest.txt  
  ├── .gitignore  
 ```
 
